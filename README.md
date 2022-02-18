@@ -1,1 +1,1 @@
-V28 api server con integracion de mongo con usuarios.
+Entregable de MVC con entidad productos.
